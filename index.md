@@ -16,7 +16,7 @@ Advent of Cyber is a great way to start learning cybersecurity through short, gu
 Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
 - **Day 0 – Getting started & Setup**  
-  [Read Writeup](/day0-getting-started-and-setup.html)
+  [Read Writeup](./day0-getting-started-and-setup.html)
 
 *(Add more days as you publish them)*
 
