@@ -1,6 +1,4 @@
----
-title: Advent of Cyber 2025 – Writeups
----
+# Advent of Cyber 2025 – Writeups
 
 Welcome to the Cyber Security Club, ITNU’s collection of **Advent of Cyber 2025** writeups.  
 This site provides simple, easy-to-follow explanations for each day’s challenge from TryHackMe’s annual beginner-friendly cybersecurity event.
@@ -18,7 +16,7 @@ Advent of Cyber is a great way to start learning cybersecurity through short, gu
 Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
 - **Day 0 – Getting started & Setup**  
-  [Read Writeup](./day0-getting-started-and-setup/)
+  [Read Writeup](/day0-getting-started-and-setup.html)
 
 *(Add more days as you publish them)*
 
