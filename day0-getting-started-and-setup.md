@@ -1,9 +1,9 @@
-**Room Link**: https://tryhackme.com/room/adventofcyberpreptrack
+**Room Link**: [https://tryhackme.com/room/adventofcyberpreptrack](https://tryhackme.com/room/adventofcyberpreptrack)
 
 ## ▶️ John Hammond – Day 0 Video Walkthrough  
 We are providing the official Day 0 walkthrough video for quick onboarding:
 
-🔗 **YouTube Link:** https://youtu.be/Ap5tIJtt4Tk?si=H2dbZk3LwkqY0lUN
+🔗 **YouTube Link:** [https://youtu.be/Ap5tIJtt4Tk?si=H2dbZk3LwkqY0lUN](https://youtu.be/Ap5tIJtt4Tk?si=H2dbZk3LwkqY0lUN)
 
 <br>
 
