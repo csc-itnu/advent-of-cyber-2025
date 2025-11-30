@@ -5,8 +5,8 @@ This site provides simple, easy-to-follow explanations for each day’s challeng
 
 Advent of Cyber is a great way to start learning cybersecurity through short, guided, hands-on tasks released daily throughout December.
 
-🔗 **Official Event:** https://tryhackme.com/adventofcyber25  
-💬 **Support Group:** https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS  
+🔗 **Official Event:** [https://tryhackme.com/adventofcyber25](https://tryhackme.com/adventofcyber25)  
+💬 **Support Group:** [https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS](https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS)  
 (For support, please contact through chat only—no calls.)
 
 ---
@@ -15,10 +15,7 @@ Advent of Cyber is a great way to start learning cybersecurity through short, gu
 
 Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
-- **Day 0 – Getting started & Setup**  
-  [Read Writeup](/day0-getting-started-and-setup.html)
-
-*(Add more days as you publish them)*
+- [**Day 0 – Getting started & Setup**](/day0-getting-started-and-setup)  
 
 ---
 
