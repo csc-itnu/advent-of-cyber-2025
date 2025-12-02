@@ -15,7 +15,7 @@ We are providing the official Day 1 walkthrough video for quick onboarding:
 <H3>Answer: </H3>
 <h3><pre><code>ls</code></pre></h3>
 
-<img width="1336" height="60" alt="ls" src="./images/day1/Q1_ls.png" />
+<img width="1336" height="60" alt="ls" src="./../images/day1/Q1_ls.png" />
 
 <!-- <p>This reveals directories, files, and symlinks, including the <strong>Guides</strong> directory.</p> -->
 
@@ -35,7 +35,7 @@ We are providing the official Day 1 walkthrough video for quick onboarding:
 
 <pre><code>cat .guide.txt</code></pre>
 
-<img width="1246" height="553" alt="flag1" src="./images/day1/Q2_flag1.png" />
+<img width="1246" height="553" alt="flag1" src="./../images/day1/Q2_flag1.png" />
 <H3>Answer: </H3>
 <h3><pre><code>THM{learning-linux-cli}</code></pre></h3>
 
@@ -46,7 +46,7 @@ We are providing the official Day 1 walkthrough video for quick onboarding:
 <pre><code>cd /var/log</code></pre>
 <pre><code>grep "Failed password" auth.log</code></pre>
 
-<img width="1907" height="792" alt="greplogs" src="./images/day1/Q3_greplogs.png" />
+<img width="1907" height="792" alt="greplogs" src="./../images/day1/Q3_greplogs.png" />
 
 <H3>Answer: </H3>
 <h3><pre><code>grep</code></pre></h3>
@@ -59,7 +59,7 @@ We are providing the official Day 1 walkthrough video for quick onboarding:
 <p>Search the socmas directory:</p>
 
 <pre><code>find /home/socmas -name "*egg*"</code></pre>
-<img width="1836" height="329" alt="flag2" src="./images/day1/Q4_flag2.png" />
+<img width="1836" height="329" alt="flag2" src="./../images/day1/Q4_flag2.png" />
 <H3>Answer: </H3>
 <h3><pre><code>THM{sir-carrotbane-attacks}</code></pre></h3>
 
@@ -75,7 +75,7 @@ We are providing the official Day 1 walkthrough video for quick onboarding:
 
 <pre><code>cd /root</code></pre>
 <pre><code>cat .bash_history</code></pre>
-<img width="1891" height="427" alt="flag3" src="./images/day1/Q6_flag3.png" />
+<img width="1891" height="427" alt="flag3" src="./../images/day1/Q6_flag3.png" />
 <H3>Answer: </H3>
 <h3><pre><code>THM{until-we-meet-again}</code></pre></h3>
 
