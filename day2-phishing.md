@@ -14,7 +14,7 @@ We are providing the official Day 2 walkthrough video for quick onboarding:
 
 # 🎣 Advent of Cyber 2025 — Day 2 Write-Up  
 ## 🧩 Social Engineering & Phishing
-<img width="1022" height="567" alt="banner" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/banner.png" />
+<img width="1022" height="567" alt="banner" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/banner.png?raw=true" />
 ---
 
 ## 🧠 Social Engineering — Quick Overview  
@@ -64,7 +64,7 @@ The attacker hosts a fake TBFC login portal using:
 ```
 ./server.py
 ```
-<img width="1079" height="152" alt="1serverisrunning" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/1serverisrunning.png" />
+<img width="1079" height="152" alt="1serverisrunning" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/1serverisrunning.png?raw=true" />
 
 
 Any submitted credentials appear **directly in your terminal** — no database needed.
@@ -78,7 +78,7 @@ Launch the tool:
 ```
 setoolkit
 ```
-<img width="1208" height="44" alt="2setoolkit" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/2setoolkit.png" />
+<img width="1208" height="44" alt="2setoolkit" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/2setoolkit.png?raw=true" />
 
 Choose:
 
@@ -87,8 +87,8 @@ Choose:
 5) Mass Mailer Attack
 1) Single Email Address
 ```
-<img width="953" height="345" alt="3SEattacks" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/3SEattacks.png" />
-<img width="1736" height="736" alt="4final" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/4final.png" />
+<img width="953" height="345" alt="3SEattacks" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/3SEattacks.png?raw=true" />
+<img width="1736" height="736" alt="4final" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/4final.png?raw=true" />
 
 
 ### Required Inputs
@@ -117,12 +117,12 @@ Best regards,
 Flying Deer
 END
 ```
-<img width="1543" height="880" alt="5mail" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/5mail.png" />
+<img width="1543" height="880" alt="5mail" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/5mail.png?raw=true" />
 
 <b><p>SET sends the email to the target machine and it (AI-Agent) will automatically click the url and enter the creds that will come to us on our attacker machine.
 Your server terminal immediately shows the captured credentials.</p></b>
 
-<img width="1767" height="412" alt="6logs" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/6logs.png" />
+<img width="1767" height="412" alt="6logs" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/6logs.png?raw=true" />
 
 ---
 
@@ -144,8 +144,8 @@ http://<target-ip>
 
 Use harvested creds → read mailbox → find shipment stats.
 
-<img width="1892" height="930" alt="7loginpage" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/7loginpage.png" />
-<img width="1912" height="776" alt="8final" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/8final.png" />
+<img width="1892" height="930" alt="7loginpage" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/7loginpage.png?raw=true" />
+<img width="1912" height="776" alt="8final" src="https://github.com/csc-itnu/advent-of-cyber-2025/blob/main/images/day2/8final.png?raw=true" />
 
 
 Answer:

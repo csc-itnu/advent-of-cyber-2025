@@ -17,6 +17,7 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 
 - [**Day 0 – Getting started & Setup**](./day0-getting-started-and-setup)  
 - [**Day 1 – Linux CLI**](./day1-linux-cli)  
+- [**Day 2 – Phishing**](./day2-phishing)  
 
 ---
 
