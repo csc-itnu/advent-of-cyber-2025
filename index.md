@@ -19,7 +19,8 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 1 – Linux CLI**](./day1-linux-cli)  
 - [**Day 2 – Phishing**](./day2-phishing)    
 - [**Day 3 – Splunk**](./day3-splunk)
-- [**Day 4 – AI in Security**](./day4-ai-in-security)  
+- [**Day 4 – AI in Security**](./day4-ai-in-security)
+- [**Day 5 – IDOR**](./day5-IDOR) 
 
 ---
 
