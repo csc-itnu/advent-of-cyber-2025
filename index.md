@@ -15,12 +15,12 @@ Advent of Cyber is a great way to start learning cybersecurity through short, gu
 
 Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
-- [**Day 0 – Getting started & Setup**](./day0-getting-started-and-setup)  
-- [**Day 1 – Linux CLI**](./day1-linux-cli)  
-- [**Day 2 – Phishing**](./day2-phishing)    
-- [**Day 3 – Splunk**](./day3-splunk)
-- [**Day 4 – AI in Security**](./day4-ai-in-security)
-- [**Day 5 – IDOR**](./day5-IDOR) 
+- [**Day 0 – Getting started & Setup**](./day0-getting-started-and-setup.md)  
+- [**Day 1 – Linux CLI**](./day1-linux-cli.md)  
+- [**Day 2 – Phishing**](./day2-phishing.md)    
+- [**Day 3 – Splunk**](./day3-splunk.md)
+- [**Day 4 – AI in Security**](./day4-ai-in-security.md)
+- [**Day 5 – IDOR**](./day5-IDOR.md) 
 
 ---
 
