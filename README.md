@@ -1,36 +1,28 @@
+# Advent of Cyber 2025 – Writeups
 
-# Advent of Cyber 2025 – Writeups  
-Repository maintained by **Cyber Security Club, ITNU**
+Welcome to the Cyber Security Club, ITNU’s collection of **Advent of Cyber 2025** writeups.  
+This repository provides simple, easy-to-follow explanations for each day’s challenge from TryHackMe’s annual beginner-friendly cybersecurity event.
 
-Welcome to the official collection of **Advent of Cyber 2025** writeups!  
-This repository will be updated daily with clear, beginner-friendly explanations to help you understand each challenge and enjoy the learning journey.
+Advent of Cyber is a great way to start learning cybersecurity through short, guided, hands-on tasks released daily throughout December.
 
----
-
-## 📌 What is Advent of Cyber?  
-Advent of Cyber is a delightful annual event by TryHackMe that introduces real cybersecurity concepts through fun, hands-on tasks released every day throughout December.  
-It’s a wonderful way for beginners to step into the world of cybersecurity while learning practical skills in an engaging, guided manner.
-
-🔗 **Event Link:** https://tryhackme.com/adventofcyber25
+🔗 **Official Event:** [https://tryhackme.com/adventofcyber25](https://tryhackme.com/adventofcyber25)  
+💬 **Support Group:** [https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS](https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS)  
+(For support, please contact through chat only—no calls.)
 
 ---
 
-## 📝 Writeups  
-Daily writeups will appear here as the event progresses—feel free to explore, learn, and revisit anytime!
+## 📚 Writeups Index
 
----
+Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
-## 💬 Need Help or Stuck Somewhere?  
-We’re here for you!  
-If you ever feel confused, stuck, or just want a bit of guidance, you’re warmly invited to join our support group.
-
-📱 **WhatsApp Support Group:** https://chat.whatsapp.com/LThiQw5N6AdDrMxyVrSFjS  
-
-For any support, kindly reach out **only through chat** in the group—**no calls, please**.  
-Our admins will be happy to assist you whenever you need a little nudge in the right direction. 😊
+- [**Day 0 – Getting started & Setup**](./day0-getting-started-and-setup.md)  
+- [**Day 1 – Linux CLI**](./day1-linux-cli.md)  
+- [**Day 2 – Phishing**](./day2-phishing.md)    
+- [**Day 3 – Splunk**](./day3-splunk.md)
+- [**Day 4 – AI in Security**](./day4-ai-in-security.md)
+- [**Day 5 – IDOR**](./day5-IDOR.md) 
 
 ---
 
 ## 🤝 Maintained By  
 [**Cyber Security Club, ITNU**](https://csc-itnu.vercel.app)
-
