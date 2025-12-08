@@ -21,8 +21,8 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 3 – Splunk**](./day3-splunk.md)
 - [**Day 4 – AI in Security**](./day4-ai-in-security.md)
 - [**Day 5 – IDOR**](./day5-IDOR.md)
-- [**Day 6 – malware-analysis**](./day6-malware-analysis.md)
-- [**Day 7 – network-discovery**](./day7-network-discovery.md)
+- [**Day 6 – Malware Analysis**](./day6-malware-analysis.md)
+- [**Day 7 – Network Discovery**](./day7-network-discovery.md)
 
 ---
 
