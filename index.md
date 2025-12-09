@@ -23,7 +23,7 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 5 – IDOR**](./day5-IDOR.md)
 - [**Day 6 – Malware Analysis**](./day6-malware-analysis.md)
 - [**Day 7 – Network Discovery**](./day7-network-discovery.md)
-
+- [**Day 8 - Prompt Injection**](./day8-prompt-injection.md)
 ---
 
 ## 🤝 Maintained By  
