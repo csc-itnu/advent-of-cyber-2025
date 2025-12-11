@@ -16,15 +16,16 @@ Advent of Cyber is a great way to start learning cybersecurity through short, gu
 Below is the list of daily writeups. Each link will take you to the detailed solution for that day.
 
 - [**Day 0 – Getting started & Setup**](./day0-getting-started-and-setup.md)  
-- [**Day 1 – Linux CLI**](./day1-linux-cli.md)  
-- [**Day 2 – Phishing**](./day2-phishing.md)    
-- [**Day 3 – Splunk**](./day3-splunk.md)
-- [**Day 4 – AI in Security**](./day4-ai-in-security.md)
-- [**Day 5 – IDOR**](./day5-IDOR.md)
-- [**Day 6 – Malware Analysis**](./day6-malware-analysis.md)
-- [**Day 7 – Network Discovery**](./day7-network-discovery.md)
-- [**Day 8 - Prompt Injection**](./day8-prompt-injection.md)
-- [**Day 9 – Password Cracking**](./day9-passwords.md)
+- [**Day 1 – Linux CLI**](./day01-linux-cli.md)  
+- [**Day 2 – Phishing**](./day02-phishing.md)    
+- [**Day 3 – Splunk**](./day03-splunk.md)
+- [**Day 4 – AI in Security**](./day04-ai-in-security.md)
+- [**Day 5 – IDOR**](./day05-IDOR.md)
+- [**Day 6 – Malware Analysis**](./day06-malware-analysis.md)
+- [**Day 7 – Network Discovery**](./day07-network-discovery.md)
+- [**Day 8 - Prompt Injection**](./day08-prompt-injection.md)
+- [**Day 9 – Password Cracking**](./day09-passwords.md)
+- [**Day 10 – SOC Alert Triaging**](./day10-soc-alert-triaging.md)
 ---
 
 ## 🤝 Maintained By  
