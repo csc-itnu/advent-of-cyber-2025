@@ -27,6 +27,7 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 9 – Password Cracking**](./day09-passwords.md)
 - [**Day 10 – SOC Alert Triaging**](./day10-soc-alert-triaging.md)
 - [**Day 11 – XSS**](./day11-XSS.md)
+- [**Day 12 – Phishing**](./day12-phishing.md)
 
 ---
 
