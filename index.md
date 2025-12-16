@@ -30,6 +30,8 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 12 – Phishing**](./day12-phishing.md)
 - [**Day 13 – YARA Rules**](./day13-yara-rules.md)
 - [**Day 14 – Containers**](./day14-containers.md)
+- [**Day 15 – Web Attacks Forensics**](./day15-web-attacks-forensics.md)
+
 ---
 
 ## 🤝 Maintained By  
