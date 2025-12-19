@@ -33,6 +33,7 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 15 – Web Attack Forensics**](./day15-web-attacks-forensics.md)
 - [**Day 16 – Registry Forensics**](./day16-forensics.md)
 - [**Day 17 – CyberChef**](./day17-cyberchef.md)
+- [**Day 18 – Obfuscation**](./day18-obfuscation.md)
 
 ---
 
