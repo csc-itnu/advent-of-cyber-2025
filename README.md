@@ -34,6 +34,8 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 16 – Registry Forensics**](./day16-forensics.md)
 - [**Day 17 – CyberChef**](./day17-cyberchef.md)
 - [**Day 18 – Obfuscation**](./day18-obfuscation.md)
+- [**Day 19 – ICS/Modbus**](./day19-Claus-for-Concern.md)
+- [**Day 20 – Race Conditions**](./day20-race-conditions.md)
 
 ---
 
