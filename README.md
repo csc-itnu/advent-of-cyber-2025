@@ -37,7 +37,7 @@ Below is the list of daily writeups. Each link will take you to the detailed sol
 - [**Day 19 – ICS/Modbus**](./day19-Claus-for-Concern.md)
 - [**Day 20 – Race Conditions**](./day20-race-conditions.md)
 - [**Day 21 – Malware Analysis**](./day21-malware-analysis.md)
-
+- [**Day 22 – C2 Detection**](./day22-c2-detection.md)
 ---
 
 ## 🤝 Maintained By  
