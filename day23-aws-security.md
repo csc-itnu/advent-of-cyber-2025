@@ -16,7 +16,7 @@ https://youtu.be/9ZLS4iUFi00?si=4hxj_umEeklFyRBL
 
 ## 📘 Review the Theory
 
-Refer to the TryHackMe theory section before starting this room.
+Refer to the TryHackMe theory section before starting this.
 
 ---
 
